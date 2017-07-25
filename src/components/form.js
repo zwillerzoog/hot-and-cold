@@ -10,12 +10,3 @@ export default function Form(props) {
         </form>
     );
 }
-
-
-
-// user inputs number = userGuess
-// code checks if userGuess is close to generated number
-// code tells user how cold or hot userGuess is to generated number
-
-//form.js goes into evaluate guess component
-//
